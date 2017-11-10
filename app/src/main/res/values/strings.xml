@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Digital Signature</string>
+
+    <string name="hint_sign">Signature</string>
+    <string name="write_pad_OK">Save</string>
+    <string name="write_pad_Clean">Clear</string>
+    <string name="write_pad_NO">Cancel</string>
+
+</resources>
